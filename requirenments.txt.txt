@@ -1,0 +1,8 @@
+first-project/
+├── app.py                 # Streamlit web app
+├── model_training.py      # Model training script
+├── best_model.pkl         # Saved Logistic Regression model
+├── scaler.pkl             # Saved StandardScaler
+├── diabetes.csv           # Dataset
+├── requirements.txt       # Python dependencies
+└── README.md              # Project description
