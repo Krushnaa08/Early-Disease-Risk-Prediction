@@ -1,6 +1,6 @@
 # Early Disease Risk Prediction
 
-A machine learning project that predicts the risk of diabetes based on patient data. Built with Python, Scikit-learn, and Streamlit.
+A machine learning project that predicts the risk of diabetes based on patient data. Built with Python, Scikit-learn, and Streamlit..
 
 **INTRODUCTION**-----
 
